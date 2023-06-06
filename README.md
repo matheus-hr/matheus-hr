@@ -1,38 +1,48 @@
-<h3> 👋 &nbsp;Olá, me chamo Matheus Henrique </h3>
+<h1> 👋 &nbsp;Olá, me chamo Matheus Henrique </h1>
 
-- 👨‍💻 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Formado em **Analise e Desenvolvimento de sistemas** na <a href="http://www.fateccarapicuiba.edu.br/analise-e-desenvolvimento-de-sistemas/)">FATEC</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **.NET**, **React** e **React Native**.
+<div style="display: inline_block">
+ <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-hr&layout=compact&langs_count=11&theme=tokyonight"/>
+  <p>- 👨‍💻 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.</p> 
+  <p>- 🎓 &nbsp; Formado em <b>Analise e Desenvolvimento de sistemas</b> na <a href="http://www.fateccarapicuiba.edu.br/analise-e-desenvolvimento-de-sistemas/)">FATEC</a>.</p> 
+  <p>- 🌱 &nbsp; Aprendendo mais sobre <b>.NET</b>, <b>React</b> e <b>React Native</b>.</p> 
+</div>
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
 **Aplicações e Dados**
 
-  ![C#](https://img.shields.io/badge/-csharp-333333?style=flat&logo=csharp&logoColor=239120)
-  ![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=dotnet&logoColor=blue)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![C Sharp](https://img.shields.io/static/v1?style=flat&message=C+Sharp&color=239120&logo=C+Sharp&logoColor=FFFFFF&label=)
+  ![.NET](https://img.shields.io/static/v1?style=flat&message=.NET&color=512BD4&logo=.NET&logoColor=FFFFFF&label=)
+  ![JavaScript](https://img.shields.io/static/v1??style=flat&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
+  ![TypeScript](https://img.shields.io/static/v1?style=flat&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=)
+  ![HTML5](https://img.shields.io/static/v1?style=flat&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
+  ![CSS3](https://img.shields.io/static/v1?style=flat&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
+  ![React](https://img.shields.io/static/v1?style=flat&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
   ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 
 **Utilidades**
 
-  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+  ![Postman](https://img.shields.io/static/v1?style=flat&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=)
+  ![Insomnia](https://img.shields.io/static/v1?style=flat&message=Insomnia&color=4000BF&logo=Insomnia&logoColor=FFFFFF&label=)
 
 **DevOps**
 
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+  ![Git](https://img.shields.io/static/v1?style=flat&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
+  ![GitHub](https://img.shields.io/static/v1?style=flat&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
+  <!--![Docker](https://img.shields.io/static/v1?style=flat&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)-->
 
 **Ferramentas de Desenvolvimento**
 
-  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=a377db)
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+  ![Visual Studio](https://img.shields.io/static/v1?style=flat&message=Visual+Studio&color=5C2D91&logo=Visual+Studio&logoColor=FFFFFF&label=)
+  ![Visual Studio Code](https://img.shields.io/static/v1?style=flat&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
+  ![Figma](https://img.shields.io/static/v1?style=flat&message=Figma&color=F24E1E&logo=Figma&logoColor=FFFFFF&label=)
+  
+  **Banco de Dados**
+
+  ![SQL Server](https://img.shields.io/static/v1?style=flat&message=SQL+Server&color=CC2927&logo=Microsoft+SQL+Server&logoColor=FFFFFF&label=)
+  ![SQLite](https://img.shields.io/static/v1?style=flat&message=SQLite&color=003B57&logo=SQLite&logoColor=FFFFFF&label=)
+  ![Oracle](https://img.shields.io/static/v1?style=flat&message=Oracle&color=F80000&logo=Oracle&logoColor=FFFFFF&label=)
+  
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
