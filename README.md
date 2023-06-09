@@ -1,13 +1,18 @@
-<h1> 👋 &nbsp;Olá, me chamo Matheus Henrique </h1>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=180&section=header&text=👋+Olá,+me+chamo+Matheus+Henrique&fontSize=42&fontColor=fff&fontAlignY=32"/>
+
 <!--https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-hr&layout=compact&langs_count=11&theme=tokyonight-->
-<div style="display: inline_block">
+<div style="display:inline_block">
  <img align="right" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=matheus-hr&layout=compact&langs_count=11&theme=tokyonight"/>
+  <h2>Sobre mim:</h2>
   <p>- 👨‍💻 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.</p> 
   <p>- 🎓 &nbsp; Formado em <b>Analise e Desenvolvimento de sistemas</b> na <a href="http://www.fateccarapicuiba.edu.br/analise-e-desenvolvimento-de-sistemas/)">FATEC</a>.</p> 
   <p>- 🌱 &nbsp; Aprendendo mais sobre <b>.NET</b>, <b>React</b> e <b>React Native</b>.</p> 
 </div>
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+<br/>
+
+<h2>:rocket: &nbsp;Minhas Skills </h3>
 
 **Aplicações e Dados**
 
@@ -42,9 +47,12 @@
   ![SQL Server](https://img.shields.io/static/v1?style=flat&message=SQL+Server&color=CC2927&logo=Microsoft+SQL+Server&logoColor=FFFFFF&label=)
   ![SQLite](https://img.shields.io/static/v1?style=flat&message=SQLite&color=003B57&logo=SQLite&logoColor=FFFFFF&label=)
   ![Oracle](https://img.shields.io/static/v1?style=flat&message=Oracle&color=F80000&logo=Oracle&logoColor=FFFFFF&label=)
-  
 
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+ <h2> :earth_americas: &nbsp;Onde me encontrar: </h2> 
 
-[![Linkedin: Matheus Henrique](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/matheus-henrique-030320158/)
-[![GitHub Matheus Henrique]( https://img.shields.io/github/followers/matheus-hr?label=follow&style=social)](https://github.com/matheus-hr)
+ [![Linkedin: Matheus Henrique](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/matheus-henrique-030320158/)
+ [![GitHub Matheus Henrique]( https://img.shields.io/github/followers/matheus-hr?label=follow&style=social)](https://github.com/matheus-hr)
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=160&section=footer&fontSize=16&text=Transformando+linhas+de+código+em+soluções+que+fazem+a+diferença.+💻+💖&fontSize=42&fontColor=fff&fontAlignY=64"/>
+
