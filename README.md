@@ -103,6 +103,3 @@
       </dd>
   </dl>
 </p>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=160&section=footer&fontSize=16&text=Transformando+linhas+de+código+em+soluções+que+fazem+a+diferença.+💻+💖&fontSize=42&fontColor=fff&fontAlignY=64"/>
-
